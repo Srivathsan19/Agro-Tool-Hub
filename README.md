@@ -31,13 +31,13 @@ AgroToolHub solves this by:
 ## 📸 Project Output
 
 ### 🏠 Home Page
-![Home Page Screenshot](Screenshots/Screenshot%202024-11-04%20220815.png)
+![Home Page Screenshot](Screenshot/Screenshot%202024-11-04%20220815.png)
 
 ### 🧑‍💼 Seller Dashboard
-![Seller Dashboard Screenshot](Screenshots/Screenshot%202024-11-04%20221019.png)
+![Seller Dashboard Screenshot](Screenshot/Screenshot%202024-11-04%20221019.png)
 
 ### 🛠️ Rent a Tool
-![Rent a Tool Screenshot](Screenshots/Screenshot%202024-11-05%20090326.png)
+![Rent a Tool Screenshot](Screenshot/Screenshot%202024-11-05%20090326.png)
 
 
 
