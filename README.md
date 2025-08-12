@@ -27,3 +27,20 @@ AgroToolHub solves this by:
 - 📱 **Responsive UI** – Professional and mobile-friendly design.  
 
 ---
+
+## 📸 Project Output
+
+### 🏠 Home Page
+![Home Page Screenshot](screenshots/Screenshot%202024-11-04%20220815.png)
+
+### 🧑‍💼 Seller Dashboard
+![Seller Dashboard Screenshot](screenshots/Screenshot%202024-11-04%20221019.png)
+
+### 🛠️ Rent a Tool
+![Rent a Tool Screenshot](screenshots/Screenshot%202024-11-05%20090326.png)
+
+
+
+
+
+
