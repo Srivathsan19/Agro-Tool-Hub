@@ -7,7 +7,8 @@
 
 # Ignore minified JS (optional)
 *.min.js linguist-vendored
-
+# Ignore Hack files
+*.hack linguist-vendored
 # Ignore third-party dependencies
 vendor/** linguist-vendored
 node_modules/** linguist-vendored
