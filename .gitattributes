@@ -1,0 +1,16 @@
+
+# Ignore SCSS files
+*.scss linguist-vendored
+
+# Ignore Less files
+*.less linguist-vendored
+
+# Ignore minified JS (optional)
+*.min.js linguist-vendored
+
+# Ignore third-party dependencies
+vendor/** linguist-vendored
+node_modules/** linguist-vendored
+
+# Optional: Show .sql files as SQL (MySQL)
+*.sql linguist-language=SQL
